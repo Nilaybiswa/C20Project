@@ -8,10 +8,10 @@ function preload() {
     //load the images here
     bg = loadImage("garden.png");
     tomImg1= loadAnimation("cat1.png");
-    tomImg2=loadAnimation("cat2.png","images/cat3.png");
+    tomImg2=loadAnimation("cat2.png","cat3.png");
     tomImg3= loadAnimation("cat4.png");
     mouseImg1=loadAnimation("mouse1.png");
-    mouseImg2= loadAnimation("mouse2.png","images/mouse3.png");
+    mouseImg2= loadAnimation("mouse2.png","mouse3.png");
     mouseImg3=loadAnimation("mouse4.png");
 
 }
